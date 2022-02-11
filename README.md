@@ -13,4 +13,4 @@
   - ✨ e por ultimo crio aplicações webs :D
   
   
- - <a href="https://discord.gg/tS7jdCjBD5">meu servidor discord<a>
+ - <a href="https://discord.gg/CaVZtgAust">meu servidor discord<a>
