@@ -4,13 +4,13 @@
   <img src="https://thedonald.fun/wp-content/uploads/2020/02/1547718305_clappopepo.gif" width="100" height="100">
   
   
-  <h1 class="font"> oi!!, meu nome é kauã e<h1>
+  <h1 class="font"> oi!!, meu nome é Kauã e tenho 16 anos!!
 
-  - 🎒 hoje sou estudante de quimica e ciência da computação.
+  - 🗼 Sou estudante do ensino médio e planejo fazer física na USP.
   
   - 🎸 curto música.
   
-  - ✨ e por ultimo crio aplicações webs :D
+  - ✨ e por ultimo faço códigos por hobby.
   
   
  - <a href="https://discord.gg/CaVZtgAust">meu servidor discord<a>
